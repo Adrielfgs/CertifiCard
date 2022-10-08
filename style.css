@@ -55,7 +55,7 @@ body {
 }
 
 .projetos {
-    width: 70%;
+    width: 94%;
     display: flex;
     flex-direction: column;
     background: linear-gradient(230.65deg, #2780e7 27.49%, #1cb05f 83.19%);
@@ -103,9 +103,9 @@ body {
     border: 2px solid #F7F7F7;
 }
 
-.container2 {
+/* .container2 {
     display: flex;
-}
+} */
 
 .lateral {
     width: 30%;
